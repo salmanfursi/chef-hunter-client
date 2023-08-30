@@ -12,9 +12,7 @@
 
 
 
-## Live Link
-
-[Link](https://choosealicense.com/licenses/mit/) : https://chef-recipe-server-lake.vercel.app/recipe
+## Live Link:comming sooon !!!!!!!!
 
 ## server code: https://github.com/salmanfursi/chef-hunter-server
 
